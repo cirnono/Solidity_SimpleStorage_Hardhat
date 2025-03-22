@@ -26,5 +26,7 @@
     "test": "test"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "main": "index.js",
+  "repository": "https://github.com/PatrickAlphaC/hardhat-simple-storage-fcc"
 }
